@@ -1,0 +1,11 @@
+{
+  "name": "strapiwebsite",
+  "version": "1.0.0",
+  "description": "Building a simple blogsite for better understanding of the fullstack development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sanjay",
+  "license": "ISC"
+}
